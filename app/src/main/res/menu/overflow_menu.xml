@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/englishOptiom"
+        android:orderInCategory="1"
+        android:title="English"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/zuluOption"
+        android:orderInCategory="2"
+        android:title="Zulu"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/afrikaansOption"
+        android:orderInCategory="3"
+        android:title="Afrikaans"
+        app:showAsAction="never"/>
+
+</menu>
